@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
- <a href="#portfolio" target="blank">
+ <a href="https://portfolio-khaled-jinx.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="khaled" />
  </a>
  <a href="https://www.linkedin.com/in/khaledrashadd" target="_blank">
@@ -50,7 +50,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: khaleddrashadd@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: khaledrashadd@outlook.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/khaleddrashadd/khaleddrashadd/issues)
 
 </p>
