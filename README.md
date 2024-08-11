@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/khaleddrashadd"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;Always+learning+new+things;Self-Taught+Programmer"></a>
+  <a href="https://github.com/khaleddrashadd"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Always+learning+new+things;Self-Taught+Programmer"></a>
 </p>
 
 <!-- Intro  -->
@@ -17,7 +17,7 @@
 <p align="center"> 
   <samp>
     <!--  -->
-     I am a Front End web appplication developer from <b>Egypt</b> 
+     I am a Fullstack web appplication developer from <b>Egypt</b> 
     <br>
     <br>
   </samp>
